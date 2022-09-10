@@ -1,1 +1,1 @@
-{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/nahom/Documents/py-adventure","disabled":false,"__vagrantfile":true}}}
+{"virtualbox":{"/home/vagrant/app/":{"guestpath":"/home/vagrant/app","hostpath":"C:/Users/nahom/Documents/py-adventure/app","disabled":false,"__vagrantfile":true},"/home/vagrant/env":{"guestpath":"/home/vagrant/env","hostpath":"C:/Users/nahom/Documents/py-adventure/env","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/nahom/Documents/py-adventure","disabled":false,"__vagrantfile":true}}}
